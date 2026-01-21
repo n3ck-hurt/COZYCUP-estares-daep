@@ -9,14 +9,13 @@ body {
     background-size:contain ;
     font-family: Arial, sans-serif;
      background-color: #f8f2e0;
-    color: #4c3c32;
+    color: #a58b7b;
 }
 
 header {
     background-color: #fff;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    background-image: url(/img/headerbg.png);
+    border: 10px solid #ffffff;
     margin-bottom: 50px;
 }
 
@@ -92,7 +91,7 @@ nav a:hover {
 .menu h2 {
     font-size: 30px;
     margin-bottom: 20px;
-    color: antiquewhite;
+    color: rgb(192, 177, 158);
 }
 
 .menu-grid {
@@ -106,7 +105,7 @@ nav a:hover {
 }
 
 .menu-item {
-    background: #fff;
+    background: #1d1c1c;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     padding: 20px;
@@ -128,7 +127,7 @@ nav a:hover {
 
 .menu-item p {
     font-size: 16px;
-    color: #4c3c32;
+    color: #a58b7b;
 }
 
 
