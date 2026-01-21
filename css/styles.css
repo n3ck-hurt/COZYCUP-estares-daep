@@ -8,7 +8,7 @@ body {
     background-image: url(/img/background2.png);
     background-size: contain;
     font-family: Arial, sans-serif;
-     background-color: #f9e7b0;
+     background-color: #f8f2e0;
     color: #4c3c32;
 }
 
@@ -16,6 +16,7 @@ header {
     background-color: #f3dea5;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
+    background-image: url(/img/headerbg.png);
     margin-bottom: 50px;
 }
 
@@ -51,7 +52,7 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
-    color:rgb(59, 44, 24) ;
+    color:rgb(248, 246, 243) ;
     
 }
 
@@ -89,9 +90,10 @@ nav a:hover {
 }
 
 .menu h2 {
+    font-family: Arial, "copperplate", Helvetica, sans-serif;
     font-size: 30px;
     margin-bottom: 20px;
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
 }
 
 .menu-grid {
@@ -105,7 +107,7 @@ nav a:hover {
 }
 
 .menu-item {
-    background: #fff;
+    background: #1d1c1c;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     padding: 20px;
@@ -127,7 +129,7 @@ nav a:hover {
 
 .menu-item p {
     font-size: 16px;
-    color: #4c3c32;
+    color: #a58b7b;
 }
 
 
@@ -157,7 +159,7 @@ nav a:hover {
     max-width: 800px;
     margin: 0 auto;
     padding: 10px 20px;
-    color: aliceblue;
+    color: rgb(250, 224, 139);
     background-color: #000000;
     border-radius: 1000px;
 }
